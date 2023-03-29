@@ -3,7 +3,7 @@
 
 /**
  * _printf - prints output according to a format
- * @format: character string containing zero or more directives
+ * @format: parameter to be printed
  * Return: the number of characters printed
  */
 int _printf(const char *format, ...)
